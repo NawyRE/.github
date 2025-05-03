@@ -3,8 +3,6 @@
 <div align="center">
   <h1><a href="https://nawy.com">Nawy</a></h1>
 
-  <br />
-  <hr />
 </div>
 
 ## 👋 Welcome
