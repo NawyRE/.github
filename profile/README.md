@@ -1,4 +1,6 @@
-![Nawy](https://www.nawy.com/assets/icons/common/nawy.svg)
+<div align="center">
+  <img src="https://www.nawy.com/assets/icons/common/nawy.svg" alt="Nawy" />
+</div>
 
 <div align="center">
   <h1><a href="https://nawy.com">Nawy</a></h1>
